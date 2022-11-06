@@ -4,6 +4,8 @@ This is the individual final exam for "Algorithms and Principles of Computer Sci
 
 Final Grade: 30/30 Cum Laude
 
+Academic Year: 2021-2022
+
 ## Specification
 
 The objective of the project is to create a game similar to wordle, where a user can start a game and try to guess the word from a vocabulary of words.
